@@ -1,0 +1,16 @@
+Package: EnigmulatoR
+Title: Enigma EmulatoR
+Version: 0.0.0.9000
+Authors@R: person("Paul", "Hop", email = "p.j.hop92@gmail.com", role = c("aut", "cre"))
+Description: Emulator of the Enigma M3 encryption device used during WWII. 
+Depends: R (>= 3.4.1)
+Imports: 
+  dplyr,
+  stringr,
+  stringi,
+  shiny,
+  methods
+Encoding: UTF-8
+LazyData: true
+License: GPL-3
+RoxygenNote: 6.1.1
