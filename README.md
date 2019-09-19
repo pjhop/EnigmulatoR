@@ -43,9 +43,9 @@ References
 ----------
 
 Some sources I used to understand how the machine works:  
-- <https://www.cryptomuseum.com/crypto/enigma/working.html>  
+- <https://www.cryptomuseum.com/crypto/enigma/working.htm>  
 - <https://en.wikipedia.org/wiki/Enigma_rotor_details>  
-- <http://users.telenet.be/d.rijmenants/en/enigmatech.html>
+- <http://users.telenet.be/d.rijmenants/en/enigmatech.htm>
 
 Interesting book on Turing and others who cracked the code: "Turing -
 Jack Copeland"
@@ -54,3 +54,9 @@ Jack Copeland"
 The hexsticker was created using the `hexSticker` package
 (<https://github.com/GuangchuangYu/hexSticker>), image:
 <https://cdn.comparitech.com/wp-content/uploads/2017/02/enigma-crypto-machine.jpg>
+
+To Do
+-----
+
+-   Add tests  
+-   Improve layout app
